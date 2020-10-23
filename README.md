@@ -1,6 +1,6 @@
 # Bridge Design Pattern (Java Implementation)
 
-**Bridge** build a simple yet flexible hierarchy.
+**Bridge** connect two independent hierarchies, build a simple yet flexible hierarchy.
 ![](https://github.com/shamy1st/design-pattern-bridge-java/blob/main/bridge-uml.png)
 ### Problem: 
 You have **RemoteControl** abstract class and **AdvancedRemoteControl** abstract class and you want to support any TV brand like (Sony, Samsung, ...).
