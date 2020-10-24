@@ -1,7 +1,7 @@
 # Bridge Design Pattern (Java)
 
 **Bridge** connect two independent hierarchies, build a simple flexible hierarchy.
-![](https://github.com/shamy1st/design-pattern-bridge-java/blob/main/bridge-uml.png)
+![](https://github.com/shamy1st/design-pattern-bridge/blob/main/bridge-uml.png)
 ### Problem: 
 You have **RemoteControl** abstract class and **AdvancedRemoteControl** abstract class and you want to support any TV brand like (Sony, Samsung, ...).
 
@@ -45,4 +45,4 @@ The issue for any new brand like Samsung you need to create 2 classes **SamsungR
         }
     }
 ### Solution:
-![](https://github.com/shamy1st/design-pattern-bridge-java/blob/main/bridge-solution-uml.png)
+![](https://github.com/shamy1st/design-pattern-bridge/blob/main/bridge-solution-uml.png)
